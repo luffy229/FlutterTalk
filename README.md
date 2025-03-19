@@ -23,8 +23,8 @@ A modern **Flutter-based** real-time messaging application with authentication, 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/messenger_app.git
-   cd messenger_app
+   https://github.com/luffy229/FlutterTalk.git
+   cd FlutterTalk
    ```
 2. Install dependencies:
    ```sh
