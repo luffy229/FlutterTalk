@@ -1,16 +1,44 @@
-# messenger_app
+# 📩 Messenger App
 
-A new Flutter project.
+A modern **Flutter-based** real-time messaging application with authentication, chat functionalities, and media sharing.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- ⚡ **Real-Time Messaging**: Send & receive messages instantly!
+- 🟢 **Online & Typing Indicators**: Show user status in real-time.
+- 👀 **Last Seen & Read/Delivered Receipts**: Keep track of user activity.
+- 🚫 **Block/Unblock Users**: Full control over who can chat.
+- 🔢 **Unread Count**: See how many unread messages you have.
+- 😀 **Emojis & More**: Add fun reactions to your chats.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Frontend:** Flutter (Dart)
+- **Backend:** Firebase / Node.js 
+- **Database:** Firestore 
+- **Authentication:** Firebase Auth 
+- **Storage:** Firebase Storage 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/messenger_app.git
+   cd messenger_app
+   ```
+2. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+3. Run the app:
+   ```sh
+   flutter run
+   ```
+## 📜 License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
+
+---
+
+🚀 **Developed with ❤️ by [PRATIK](https://github.com/luffy229)**
+
